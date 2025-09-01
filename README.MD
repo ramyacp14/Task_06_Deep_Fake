@@ -52,7 +52,8 @@ This project demonstrates how to convert verified sports analytics into a broadc
 
 ## 📄 Video:
 
-    https://app.heygen.com/videos/bfd67633f59644bf80eedcceff917f37
+[![Watch the AI Interview]](https://app.heygen.com/videos/bfd67633f59644bf80eedcceff917f37)
+
 ---
 
 ## 📄 Script (AI Reporter, \~60s)
