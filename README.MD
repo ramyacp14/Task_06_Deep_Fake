@@ -81,7 +81,7 @@ This project demonstrates how to convert verified sports analytics into a broadc
 * **Final Video (HeyGen):**
 
   * 16:9 stadium stand-up with subtitles and light music
-  * **Public Link:** *(Insert your HeyGen share link here)*
+  * **Public Link:** *(https://app.heygen.com/videos/bfd67633f59644bf80eedcceff917f37)*
 * **Script & Data Artifacts:**
 
   * Task 05 Notebook: `playerperformance.ipynb`
